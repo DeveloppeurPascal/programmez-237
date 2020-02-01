@@ -1,0 +1,35 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnShow = FormShow
+  OnHide = FormHide
+  DesignerMasterStyle = 0
+  object btnJouer: TButton
+    Align = Center
+    TabOrder = 0
+    Text = 'Jouer'
+    OnClick = btnJouerClick
+  end
+  object lblScore: TLabel
+    Align = Top
+    Size.Width = 640.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'lblScore'
+    TabOrder = 2
+  end
+  object Timer1: TTimer
+    Enabled = False
+    Interval = 300
+    OnTimer = Timer1Timer
+    Left = 136
+    Top = 96
+  end
+end

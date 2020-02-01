@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/07 20:45:57.000.803,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 00:13:59.013,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 00:15:17.214,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Programmez\02-fmxlinux-helloworld\Unit1.fmx=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.fmx</Transaction>
+    <Transaction>2019/10/04 00:15:17.214,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Programmez\02-fmxlinux-helloworld\Unit1.pas=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 00:15:20.296,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Programmez\02-fmxlinux-helloworld\Project1.dproj=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <PiMac iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>

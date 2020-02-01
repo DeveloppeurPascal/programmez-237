@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/07 20:45:57.000.803,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 00:54:05.000.895,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 01:04:35.000.047,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Programmez\03-fmx-jeuvideo\Unit1.pas=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 01:04:35.000.047,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Programmez\03-fmx-jeuvideo\Unit1.fmx=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.fmx</Transaction>
+    <Transaction>2019/10/04 01:07:18.000.599,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Programmez\03-fmx-jeuvideo\Project1.dproj=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2019/10/04 02:36:04.242,=C:\Program Files (x86)\Raize\RadiantShapes\Source\Radiant.Shapes.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PiMac iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
